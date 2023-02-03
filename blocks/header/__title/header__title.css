@@ -4,5 +4,6 @@
   font-size: 102px;
   font-weight: bold;
   margin: 0 0 0 64px;
-  z-index: 1;
+  position: absolute;
+  z-index: 99;
 }
